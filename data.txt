@@ -3,3 +3,5 @@ read
 wash the clothes
 do the dishes
 read the books
+clean
+
